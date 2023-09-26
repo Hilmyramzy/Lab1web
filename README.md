@@ -64,7 +64,62 @@ Parameter title pada tag <img> berfungsi sebagai memberikan judul pada gambar da
 Sedangkan parameter alt pada tag <img> berfungsi juga sama pada parameter title, hanya saja parameter alt ini akan di tampilkan jika gambar gagal dimuat. Disini saya contohkan ketika saya secara sengaja menginputkan nama file yang salah pada link src, ![Screenshot (154)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/4eddac87-627f-44e6-ba45-1989c3cb44b2)
 ![Screenshot (153)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/d3707da9-77f4-42a5-90fc-96dcfd9aa484)
 
-4.
+4.Untuk mengatur ukuran gambar pada HTML, digunakan atribut width dan height. Atribut width menentukan lebar gambar, sedangkan atribut height menentukan tinggi gambar 1. Agar tampilan gambar proporsional, sebaiknya kedua atribut tersebut diisi semua
+
+Keterangan:
+
+src adalah tempat atau direktori file gambar Anda berada
+
+width adalah ukuran lebar dari gambar.
+
+height adalah ukuran tinggi dari gambar.
+
+Ukuran gambar berupa piksel.
+jika w dan h 500px
+![Screenshot (158)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/76af6e99-477e-4a52-9426-afa9b25ec789)
+
+ini tampilan jika width dan height seimbang:
+![Screenshot (160)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/0b1656ae-bad7-49ac-a9cc-234600609093)
+
+
+5.Menggunakan Atribut target
+
+Atribut ini berfungsi untuk menentukan target dari pembukaan link. Ada beberapa target yang biasanya digunakan:
+
+
+_blank akan membuka link pada jendela atau tab baru;
+
+_self akan membuka link pada halaman itu sendiri (default target);
+
+_top menuju bagian paling atas pada halaman;
+
+_parent membuka link pada frame induk;
+
+nama-frame akan membuka link pada <iframe> dengan nama tertentu;
+
+
+
+![Screenshot (163)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/d6143397-54f1-41a6-931f-67196e23d756)
+
+
+![Screenshot (161)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/e6fb7250-185b-4039-9547-2bf86e1bb28a)
+
+![Screenshot (162)](https://github.com/Hilmyramzy/Lab1web/assets/115677769/9443e599-aee4-4bcc-b27c-14120b0fa486)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
